@@ -1,4 +1,5 @@
 # 🥗 The Catering Co. - Reservation and Ordering System
+How it works: https://thecateringco.netlify.app/
 
 This project is a **web-based catering reservation and ordering system** that allows customers to:
 - Browse available catering services and products
